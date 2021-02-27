@@ -1,16 +1,14 @@
-#008_String_Compare_Regex
 
 str_regex = []
 
-#Palavra unica meio ao texto
+#Regex Declare
 str_regex[1] = /Test/
 str_regex[2] = /Tes t/
-#Palavra (0 ou mais coisas[.*]) Palavra
 str_regex[3] = /Test.*1 1/
 str_regex[4] = /T.*est 3 1 1/
-#Palavra (1 ou mais coisas[.+]) Palavra
 str_regex[5] = /Test.+1 1/
 str_regex[6] = /T.+est 3 1 1/
+
 
 normal_text = "Test 3 1 1 Test 1 1 1"
 
@@ -22,8 +20,8 @@ puts
 puts "Text: #{normal_text}"
 puts "String Size: #{normal_text.length()}"
 
-falha = " Regex Falhou"
-sucesso = " Regex Sucesso"
+falha = " Regex Fail"
+sucesso = " Regex Success"
 
 puts
 puts "Tests:"

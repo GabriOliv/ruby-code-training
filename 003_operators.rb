@@ -1,4 +1,4 @@
-#003_Number_Intro
+#003_number_operator
 
 puts "\n\tOperators\n\n"
 
