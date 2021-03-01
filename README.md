@@ -11,11 +11,13 @@ Some Ruby Scripts and Exercises
 | Script | Exercise | Source |
 | :----: | :------- | :----: |
 | ex_001.rb  | Get the File Extension | [Source][ex_001] |
+| ex_002.rb  | Mubashir Cipher | [Source][ex_002] |
+| ex_003.rb  | Transpose | [Source][ex_003] |
 
 
 [ex_001]: <https://edabit.com/challenge/xE3A7mW4SnDpKKzos>
-[ex_002]: <LINK>
-[ex_003]: <LINK>
+[ex_002]: <https://edabit.com/challenge/8W5AHdDGHfPf2GW6y>
+[ex_003]: <https://exercism.io/tracks/ruby/exercises/transpose>
 [ex_004]: <LINK>
 [ex_005]: <LINK>
 [ex_006]: <LINK>
