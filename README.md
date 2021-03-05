@@ -1,4 +1,4 @@
-# ruby-code-training
+# [Ruby Code Training](https://github.com/GabriOliv/ruby-code-training)
 
 Some Ruby Scripts and Exercises
 
