@@ -13,13 +13,15 @@ Some Ruby Scripts and Exercises
 | ex_001.rb  | Get the File Extension | [Source][ex_001] |
 | ex_002.rb  | Mubashir Cipher | [Source][ex_002] |
 | ex_003.rb  | Transpose | [Source][ex_003] |
+| ex_004.rb  | Acronym | [Source][ex_004] |
+| ex_005.rb  | Pangram | [Source][ex_005] |
 
 
 [ex_001]: <https://edabit.com/challenge/xE3A7mW4SnDpKKzos>
 [ex_002]: <https://edabit.com/challenge/8W5AHdDGHfPf2GW6y>
 [ex_003]: <https://exercism.io/tracks/ruby/exercises/transpose>
-[ex_004]: <LINK>
-[ex_005]: <LINK>
+[ex_004]: <https://exercism.io/tracks/ruby/exercises/acronym>
+[ex_005]: <https://exercism.io/tracks/ruby/exercises/pangram>
 [ex_006]: <LINK>
 [ex_007]: <LINK>
 [ex_008]: <LINK>
